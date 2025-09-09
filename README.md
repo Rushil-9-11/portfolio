@@ -8,7 +8,7 @@ Welcome to my portfolio website.
 
 ## About Me
 
-Hi! I'm **Sandeep**, a **Computer Science undergraduate at VIT Chennai**
+Hi! I'm a **Computer Science undergraduate at VIT Chennai**
 passionate about:
 **Web Development**
 **UI/UX Design**
@@ -28,19 +28,7 @@ Here are the main technologies and tools I work with:
 - **Design & UX:** UI/UX principles, responsive design
 
 ---
-
-## 🎯 Fun Facts
-
-- Curious and love learning new things 🔍  
-- Enjoy working out regularly 💪  
-- Anime enthusiast 🌸
-
----
-
 ## 💼 Projects
-
- 
-
 ---
 
 ## 📬 Contact Me
