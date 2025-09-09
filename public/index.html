@@ -2,23 +2,50 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <!-- Removed favicon -->
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta
       name="description"
       content="Web site created using create-react-app"
     />
-    <!-- Removed apple-touch-icon -->
-    <!-- Removed manifest (optional, prevents PWA icons) -->
-    
+    <!-- Add CSRF token meta (if using backend security) - optional but recommended for future-proofing -->
+    <meta name="csrf-token" content="%PUBLIC_URL%/csrf-token">
+    <!-- Open Graph meta tags for social sharing (optional but useful) -->
+    <meta property="og:title" content="Rushil" />
+    <meta property="og:description" content="Web site created using create-react-app" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="%PUBLIC_URL%/logo192.png" />
+    <!-- Twitter Card meta tags (optional) -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Rushil" />
+    <meta name="twitter:description" content="Web site created using create-react-app" />
+    <meta name="twitter:image" content="%PUBLIC_URL%/logo192.png" />
+
     <title>Rushil</title>
-    <!-- Add this line if you want a completely blank favicon -->
+    <!-- Blank favicon to avoid default icon -->
     <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+    <!-- Add Montserrat font from Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet" rel="preload" as="style">
+    <!-- Preconnect to Google Fonts for performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Ensure compatibility with older browsers (optional) -->
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
+
+    <!-- Load React and ReactDOM scripts (handled by CRA build, but included here for clarity) -->
+    <!-- These are injected by CRA's index.js and build process, so no need to add manually -->
+
+    <!-- Custom script from your project -->
     <script src="%PUBLIC_URL%/finisher-header.es5.min.js"></script>
+
+    <!-- CRA runtime script (injected by build process) -->
+    <!-- This is automatically added by CRA when you build the app -->
   </body>
 </html>

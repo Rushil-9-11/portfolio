@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import heroImg from "../assets/profile.jpg";
+import heroImg from "../assets/Screenshot 2025-01-03 143514.png";
 
 export default function Hero() {
   return (
@@ -13,7 +13,7 @@ export default function Hero() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <span className="tag">Hi!</span>
+          <span className="tag">Hello!</span>
           <h1>
             This is <span style={{ color: "var(--accent)" }}>Rushil Dwaraka</span>
           </h1>

@@ -11,9 +11,9 @@ export default function Footer() {
       <div style={{display:"flex", gap:16, alignItems:"center"}}>
         <div className="socials">
           
-          <a href="" aria-label="github"><FaGithub /></a>
+          <a href="https://github.com/Rushil-9-11" aria-label="github"><FaGithub /></a>
           
-          <a href="" aria-label="linkedin"><FaLinkedin /></a>
+          <a href="linkedin.com/in/d-b-sai-rushil-640217358/" aria-label="linkedin"><FaLinkedin /></a>
           
         </div>
         <div style={{color:"var(--muted)", fontSize:18}}> {new Date().getFullYear()}</div>
