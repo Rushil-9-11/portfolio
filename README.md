@@ -1,14 +1,18 @@
-# </Sai Sandeep Seelam >
+# </Rushil Dwaraka >
 
-Welcome to my personal portfolio website! This site showcases my journey as a Computer Science student, my skills, projects, and interests.  
+Welcome to my portfolio website.
 
-🔗 **Live Demo:** [https://saisandeepseelam.netlify.app/](https://saisandeepseelam.netlify.app/)
+🔗 **Live Demo:** 
 
 ---
 
-## 🌟 About Me
+## About Me
 
-Hi! I'm **Sandeep**, a **Computer Science and Engineering undergraduate at VIT Chennai**, passionate about **Web Development** and **UI/UX Design**. I also enjoy exploring **Game Development** and **AI/ML**.  
+Hi! I'm **Sandeep**, a **Computer Science undergraduate at VIT Chennai**
+passionate about:
+**Web Development**
+**UI/UX Design**
+**AI/ML**.  
 
 I love building **clean, efficient, and user-friendly web applications**. What excites me most is creating things people can interact with—simple, smooth, and meaningful experiences. At my core, I’m a **learner, builder, and creator**, turning imagination into reality.
 
@@ -35,17 +39,7 @@ Here are the main technologies and tools I work with:
 
 ## 💼 Projects
 
-### 1. **To-Do List**
-A simple hub for remembering and managing tasks efficiently.  
-🔗 [View Project](https://sandeeptodolisto.netlify.app/)  
-
-### 2. **Portfolio Website**
-A personal portfolio describing me and my projects.  
-🔗 [View Project](https://saisandeepseelam.netlify.app/)  
-
-### 3. **CheatStack**
-A stack of cheatsheets for various programming languages. *(Under construction)*  
-🔗 [View Project](#)  
+ 
 
 ---
 
@@ -53,5 +47,5 @@ A stack of cheatsheets for various programming languages. *(Under construction)*
 
 You can reach out via the contact form on my website or through the following:  
 
-- **Email:** saisandeepseelam@gmail.com
-- **Portfolio:** [https://saisandeepseelam.netlify.app/](https://saisandeepseelam.netlify.app/)  
+- **Email:** @gmail.com
+- **Portfolio:** 
